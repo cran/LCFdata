@@ -1,10 +1,10 @@
-f32737c2d3aa7c4618144b6bd9e5a47d *DESCRIPTION
+5f6d16a3f9e736c5b2be113a38c698aa *DESCRIPTION
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
 e00633ef86773467725d3043ef0de772 *data/datalist
 e925024dd06bbba48b6beb0c3c17c19e *data/eeg.rda
 4e6bcd10f8d4cd88c838b303d9c7fbdd *data/erpFz.rda
 754fbee6d042a8951f9b4ec53aed5d19 *data/z.rda
-11c3bdc16d2559a642b9f1c01482b805 *man/LCFdata-package.Rd
+3c7864c3ec1db4eeb5a38728fb31adde *man/LCFdata-package.Rd
 1a8000aeab2ac30a7e745e50f3c74fe9 *man/eeg.Rd
 ac32aa93e3c9d69f6db878f04a7365e8 *man/erpFz.Rd
 19e80561526c4c85e99971d6a62155b4 *man/z.Rd
